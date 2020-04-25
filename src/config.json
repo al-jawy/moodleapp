@@ -1,9 +1,9 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
-    "desktopappname": "Moodle Desktop",
-    "versioncode": 3820,
-    "versionname": "3.8.2",
+    "app_id": "com.darulfalach.ecampus",
+    "appname": "Dafa E-Campus Mobile",
+    "desktopappname": "Dafa E-Campus Desktop",
+    "versioncode": 1000,
+    "versionname": "1.0.0",
     "cache_update_frequency_usually": 420000,
     "cache_update_frequency_often": 1200000,
     "cache_update_frequency_sometimes": 3600000,
@@ -59,18 +59,7 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
-    "demo_sites": {
-        "student": {
-            "url": "https:\/\/school.moodledemo.net",
-            "username": "student",
-            "password": "moodle"
-        },
-        "teacher": {
-            "url": "https:\/\/school.moodledemo.net",
-            "username": "teacher",
-            "password": "moodle"
-        }
-    },
+	"siteurl":"http://ecampus.darulfalach.com",
     "font_sizes": [
         62.5,
         75.89,
@@ -82,7 +71,7 @@
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
-    "privacypolicy": "https:\/\/moodle.net\/moodle-app-privacy\/",
+    "privacypolicy": "http:\/\/online.darulfalach.com\/app-privacy\/",
     "notificoncolor": "#f98012",
     "statusbarbg": false,
     "statusbarlighttext": false,
